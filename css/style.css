@@ -1,3 +1,44 @@
 img {
-    width: 300px;
+    max-width: 150px;
+    display:block;
+    float:left;
+    padding-right:5px;
+}
+
+h2{
+    display:inline-block;
+    background-color: aquamarine;
+    color:blue;
+}
+
+body{
+    background-color: coral;
+}
+
+div{
+    background-color: cornflowerblue;
+    font-size: 115%;
+}
+
+h1{
+    height:100%;
+    width:auto;
+    background-color: cyan;
+    text-align:center;
+}
+dl{
+    clear:both;
+    
+}
+dd{
+    margin-left: 0;
+}
+.wraaper{
+margin:auto;
+width:90%;
+
+}
+dt{
+    font-size:1.15rem;
+    font-weight:bold;
 }
